@@ -1,16 +1,8 @@
-# Create Web3 DApp
+# Proyect AET
 <p align="center">
     <br />
-    <a href="https://createweb3dapp.alchemy.com">
-        <img src="images/cw3d-logo.png" width="200" alt=""/></a>
+ 
     <br />
-</p>
-
-<h1 align="center"><a href='https://createweb3dapp.alchemy.com/'>create-web3-dapp</a> </h1>
-<p align="center"><strong>Everything you need to create Web3 Dapps in 4 minutes.
-</strong></p>
-
-
 <center>
 
 [![Stargazers][stars-shield]][stars-url] [![Forks][forks-shield]][forks-url]
