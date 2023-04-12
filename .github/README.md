@@ -1,8 +1,5 @@
 # Proyect AET
 <p align="center">
-    <br />
- 
-    <br />
 <center>
 
 [![Stargazers][stars-shield]][stars-url] [![Forks][forks-shield]][forks-url]
