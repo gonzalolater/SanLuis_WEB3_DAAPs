@@ -1,13 +1,13 @@
 {
-	"name": "proyect_AET",
+	"name": "Proyecto_AET",
 	"version": "0.1.0",
 	"private": true,
 	"scripts": {
 		"build": "npx hardhat compile",
-		"deploy-testnet": "npx hardhat run ./scripts/Proyect-AET_deploy.js --network ETH_GOERLI",
-		"deploy": "npx hardhat run ./scripts/Proyect-AET_deploy.js --network ETH_MAINNET",
+		"deploy-testnet": "npx hardhat run ./scripts/AET_deploy.js --network ETH_GOERLI",
+		"deploy": "npx hardhat run ./scripts/AET_deploy.js --network ETH_MAINNET",
 		"node": "npx hardhat node",
-		"deploy-local": "npx hardhat run ./scripts/Proyect-AET_deploy.js --network localhost"
+		"deploy-local": "npx hardhat run ./scripts/AET_deploy.js --network localhost"
 	},
 	"dependencies": {
 		"dotenv": "^16.0.2",
